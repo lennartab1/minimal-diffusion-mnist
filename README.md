@@ -3,4 +3,4 @@ When you first learn a complex topic like Diffusion Models, you should always st
 Unfortunately, a lot of implementations of Diffusion Models on Github are quite complex and structured into a lot of files which makes approaching them quite hard. 
 This is why I decided to implement a model which is as minimal as possible while still being able to generate image data; all in one single notebook.
 
-![Generated MNIST samples](images/final_samples.png)
+![Generated MNIST samples](media/Generated%20Samples.png)
